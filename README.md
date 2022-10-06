@@ -26,7 +26,7 @@
       <label for="wm">纯粹</label><input type="checkbox" name="love" id="wm">
       <label for="ka">可爱</label><input type="checkbox" name="love" id="ka">
       <label for="wm">猫的优点数不清啦</label><input type="checkbox" name="love" id="wm"><br>
-      <label for="self">自我介绍：</label> <input type="text" value="zhi爱小猫，宠她终身" id="self"><br>
+      <label for="self">自我介绍：</label> <input type="text" value="zhi爱小猫，宠她终身" id="self"> </input> <br>
       <h2>
         我承诺：
       </h2>
