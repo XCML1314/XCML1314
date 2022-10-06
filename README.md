@@ -1,6 +1,5 @@
 <!-- saved from url=(0090)file:///C:/Users/86158/Desktop/%E5%A4%A7%E4%BB%99%E6%B3%A8%E5%86%8C%E5%B9%B3%E5%8F%B0.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
-  </title>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   </head><body>
     <form>
       <h2>
